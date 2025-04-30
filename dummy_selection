@@ -1,0 +1,14 @@
+keep:
+
+subtype
+bedroomCount
+bathroomCount
+postCode
+habitableSurface
+gardenSurface
+hasAttic
+hasTerrace
+hasBasement
+buildingCondition
+epcScore
+price
